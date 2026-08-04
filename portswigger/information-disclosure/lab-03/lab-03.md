@@ -61,11 +61,11 @@ An exposed Git repository may reveal:
 
 This vulnerability can allow attackers to:
 
-- Recover deleted credentials
-- Analyze source code
-- Discover hidden endpoints
-- Understand the application's internal structure
-- Find additional vulnerabilities
+- Recover deleted credentials.
+- Analyze source code.
+- Discover hidden endpoints.
+- Understand the application's internal structure.
+- Find additional vulnerabilities.
 
 ---
 

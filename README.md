@@ -74,7 +74,7 @@ No real-world systems were targeted.
 ## Progress
 
 - [x] Information Disclosure
-- [ ] Access Control
+- [x] Access Control
 - [ ] Authentication
 - [ ] Path Traversal
 - [ ] File Upload

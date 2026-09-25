@@ -88,5 +88,3 @@ No real-world systems were targeted.
 - [ ] Race Conditions
 
 ---
-
-⭐ Thanks for visiting my repository!

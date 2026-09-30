@@ -10,11 +10,11 @@ The goal of this repository is to document my learning journey, improve my techn
 
 ##  Objectives
 
-- Learn web application security
-- Practice vulnerability discovery
-- Improve bug hunting methodology
-- Document labs and lessons learned
-- Build a strong cybersecurity portfolio
+- Learn web application security.
+- Practice vulnerability discovery.
+- Improve bug hunting methodology.
+- Document labs and lessons learned.
+- Build a strong cybersecurity portfolio.
 
 ---
 
